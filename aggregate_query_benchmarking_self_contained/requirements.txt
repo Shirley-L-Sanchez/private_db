@@ -1,0 +1,5 @@
+#TODO: update file
+mmh3
+bitarray
+pandas
+pympler
